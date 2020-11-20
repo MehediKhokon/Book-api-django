@@ -1,6 +1,6 @@
 # Django Book list Project
 A book list with django backend <br>
-This is a blog site that contains a list of article and allow CRUD operation on the posts. User can also send article to their email account.
+This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. 
 
 #### Dependency list
 - Python
