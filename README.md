@@ -7,7 +7,7 @@ This is a blog site that contains a list of article and allow CRUD operation on 
 - django, django rest framework
 - class based views (ListView)
 - html
--*react*
+- *react*
 
 #### live link
 _no live view_
