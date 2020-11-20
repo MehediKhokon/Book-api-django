@@ -9,6 +9,9 @@ This is a blog site that contains a list of article and allow CRUD operation on 
 - html
 - *react*
 
+### DRF 
+Django rest framework. Django package that ease the process of creating api in django framework. Out of box it has some powerful built in class. 
+
 #### live link
 _no live view_
 
