@@ -22,7 +22,6 @@ _no live view_
 Adding react to frontend part with it's rest data. 
 
 ### Package to install
-
 ```
-pip install djangorestframework
+pip install django djangorestframework 
 ```
