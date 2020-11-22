@@ -10,3 +10,25 @@
 - and call the created serializers.
 - create urls for views.
 - & done ✅
+
+#### code for serializers file
+```python
+from rest_framework import serializers
+from .models import Book
+
+class BookSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Book
+        fields = '__all__'
+```
+
+#### code for views file
+```python
+from rest_framework import generics
+from .models import Book
+from .serializers import BookSerializer
+
+class BookApiView(generics.ListAPIView):
+    queryset = Book.objects.all()
+    serializer_class = BookSerializer
+```
