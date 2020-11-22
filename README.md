@@ -1,10 +1,8 @@
 
 # Django Book list Project 📖
+A book list with django backend 
+This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. 
 
-```diff
-+ A book list with django backend <br>
-+ This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. 
-```
 
 #### Dependency list
 - Python
