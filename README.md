@@ -1,4 +1,3 @@
-<div style="background-color: linear-gradient(to right, #2c3e50, #3498db);">
 # Django Book list Project 📖
 A book list with django backend <br>
 This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. 
@@ -19,4 +18,3 @@ _no live view_
 ### Future plan
 Adding react to frontend part with it's rest data. 
 
-</div>
