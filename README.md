@@ -5,11 +5,14 @@ This is a book list app and allow CRUD operation on the books. This app only ava
 
 
 #### Dependency list
+```
 - Python
 - django, django rest framework
 - class based views (ListView)
 - html
 - *react*
+
+```
 
 ### DRF 
 Django rest framework. Django package that ease the process of creating api in django framework. Out of box it has some powerful built in classes. 
