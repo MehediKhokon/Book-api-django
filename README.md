@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(to right, #2c3e50, #3498db);">
+<div style="background-color: linear-gradient(to right, #2c3e50, #3498db);">
 # Django Book list Project 📖
 A book list with django backend <br>
 This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. 
