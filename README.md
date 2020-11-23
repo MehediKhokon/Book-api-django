@@ -25,3 +25,6 @@ Adding react to frontend part with it's rest data.
 ```
 pip install django djangorestframework 
 ```
+## What is REST
+<div style="text-align: justify" >
+REST is acronym for REpresentational State Transfer. It is architectural style for distributed hypermedia systems and was first presented by Roy Fielding in 2000 in his famous dissertation. Like any other architectural style, REST also does have it’s own 6 guiding constraints which must be satisfied if an interface needs to be referred as RESTful. Client–server, stateless, cacheable, uniform interface, layered system, code on demand (optinal). </div>
