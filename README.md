@@ -18,9 +18,8 @@ Django rest framework. Django package that ease the process of creating api in d
 #### live link
 _no live view_
 
-### Future plan
-Adding react to frontend part with it's rest data. 
-
+### Integrated React 
+working react under django template engine.
 ### Package to install
 ```
 pip install django djangorestframework 
