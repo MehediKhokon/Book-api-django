@@ -9,6 +9,12 @@ class BookListView(ListView):
     model = Book
     template_name = 'book_list.html'
 
+# list api view
 class BookApiView(generics.ListAPIView):
+    queryset = Book.objects.all()
+    serializer_class = BookSerializer
+
+# detail api view
+class DetailBook(generics.RetrieveAPIView):
     queryset = Book.objects.all()
     serializer_class = BookSerializer
