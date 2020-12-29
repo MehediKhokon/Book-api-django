@@ -4,7 +4,7 @@
 This is a book list app and allow CRUD operation on the books. This app only available for api views with json data. </div>
 
 
-#### Dependency list
+#### Stack list
 - Python
 - django, django rest framework
 - class based views (ListView)
